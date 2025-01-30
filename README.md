@@ -61,10 +61,5 @@ I'm always open to collaborating on interesting projects or discussing new ideas
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
 
 Thank you for visiting my portfolio! 😊
