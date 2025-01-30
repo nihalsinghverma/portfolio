@@ -23,19 +23,19 @@ Here are some of the projects I've worked on:
 A Python script for automating tasks like package installation, configuration management, database operations, and web automation.
 
 - **Technologies Used**: Python, Selenium, Pandas, SQLAlchemy
-- [View Code](#)
+- [https://github.com/nihalsinghverma/python](#)
 
 ### 2. [Data Processing Pipeline](#)
 A pipeline for processing and analyzing large datasets, generating insights, and creating visualizations.
 
 - **Technologies Used**: Python, Pandas, NumPy, Matplotlib
-- [View Code](#)
+- [https://github.com/nihalsinghverma/python](#)
 
 ### 3. [Web Scraper](#)
 A web scraper built with Selenium to extract data from websites and store it in a database.
 
 - **Technologies Used**: Python, Selenium, SQLite
-- [View Code](#)
+- [https://github.com/nihalsinghverma/python](#)
 
 ---
 
@@ -49,13 +49,6 @@ Here are some of my featured repositories:
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)
-
----
 
 ## 📫 Let's Connect
 
