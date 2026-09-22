@@ -1,65 +1,55 @@
-# Hi, I'm Nihal 👋
+# Nihal Singh Verma
 
-Welcome to my GitHub portfolio! I'm a passionate developer with experience in Python, automation, data processing, and analytics. I love building tools and solving real-world problems with code.
+Senior Analytics Consultant (9+ yrs) modernizing BI and analytics across Banking, E-commerce, Mobility & Logistics using SQL, Power BI, and Python automation.
 
----
+## What I do
+- Modernize legacy reporting (Excel / Access / Tableau / SSRS / SAS) into scalable, governed BI on Power BI
+- Build analytics-ready SQL layers (clean KPI definitions, dimensional thinking, performance tuning)
+- Develop Python automation and reusable toolkits for reporting operations and data workflows
+- Deliver executive dashboards and stakeholder-ready insights with measurable outcomes
 
-## 🚀 Skills
+## Impact highlights (recent work)
+- Migrated 25+ reports/apps from Tableau, Excel, and MS Access to Power BI
+- Built an enterprise Python toolkit for secure multi-database connectivity and reusable utilities
+- Migrated 50+ business metrics from SAS to Python and optimized 50+ SQL queries
+- Delivered executive dashboards supporting 200+ business users
+- Automated 15–20 recurring reports; mentored 30+ team members in SQL/reporting/analytics
 
-- **Programming Languages**: Python, SQL, JavaScript
-- **Frameworks & Libraries**: Pandas, NumPy, Selenium, Scikit-learn
-- **Tools & Technologies**: Git, SQLAlchemy, Excel
-- **Databases**: MySQL, Oracle, SQL Server
-- **Web Automation**: Selenium, BeautifulSoup
-- **Data Analysis & Visualization**: Matplotlib, Seaborn, Tableau, Power BI
+## Core stack
+- SQL / Databases: Oracle, SQL Server, MySQL (analytics SQL, tuning, data quality checks)
+- BI: Power BI (semantic models, DAX, performance), Tableau, SSRS
+- Python: pandas, SQLAlchemy, automation patterns, time series (SARIMA), anomaly detection
+- Automation: Python automation, Google Apps Script, workflow automation
 
----
+## Featured projects (public portfolio)
+Note: These repos use public/synthetic data and sanitized patterns.
 
-## 🛠️ Projects
+1) Python Multi-DB Toolkit (connectors + config + logging)
+- Focus: safe connection patterns, reusable utilities, standardized error handling
+- Repo: https://github.com/nihalsinghverma/<py-multidb-toolkit>
 
-Here are some of the projects I've worked on:
+2) Power BI Semantic Model + DAX KPI Library
+- Focus: KPI definitions, measures library, model conventions, performance practices
+- Repo: https://github.com/nihalsinghverma/<powerbi-kpi-library>
 
-### 1. [Automation Toolkit](#)
-A Python script for automating tasks like package installation, configuration management, database operations, and web automation.
+3) SAS to Python Metric Migration Patterns
+- Focus: translation patterns + parity/validation checks
+- Repo: https://github.com/nihalsinghverma/<sas-to-python-migration>
 
-- **Technologies Used**: Python, Selenium, Pandas, SQLAlchemy
-- [https://github.com/nihalsinghverma/python](#)
+4) SQL Performance Playbook for Analytics Workloads
+- Focus: tuning examples, indexing strategy, query rewrites, execution plan notes
+- Repo: https://github.com/nihalsinghverma/<sql-performance-playbook>
 
-### 2. [Data Processing Pipeline](#)
-A pipeline for processing and analyzing large datasets, generating insights, and creating visualizations.
+5) Forecasting (SARIMA) + Trend/Capacity Planning Case Study
+- Focus: backtesting, evaluation, forecast outputs ready for BI consumption
+- Repo: https://github.com/nihalsinghverma/<forecasting-sarima-case-study>
 
-- **Technologies Used**: Python, Pandas, NumPy, Matplotlib
-- [https://github.com/nihalsinghverma/python](#)
+## How I build “trusted analytics”
+- Clear metric definitions and grain first (avoid KPI ambiguity)
+- Reproducible transformations and validation checks (reconciliation, freshness, uniqueness)
+- BI models optimized for performance and maintainability (not just visuals)
+- Automation to reduce manual ops and improve consistency
 
-### 3. [Web Scraper](#)
-A web scraper built with Selenium to extract data from websites and store it in a database.
-
-- **Technologies Used**: Python, Selenium, SQLite
-- [https://github.com/nihalsinghverma/python](#)
-
----
-
-## 📁 Featured Repositories
-
-Here are some of my featured repositories:
-
-- [Automation Toolkit](#): A multi-purpose automation tool.
-- [Data Analysis Projects](#): A collection of data analysis projects.
-- [Web Scraping Tools](#): Tools for web scraping and data extraction.
-
----
-
-
-## 📫 Let's Connect
-
-I'm always open to collaborating on interesting projects or discussing new ideas. Feel free to reach out to me!
-
-- **Email**: [nihalsinghverma@hotmail.com](#)
-- **LinkedIn**: [Nihal Singh Verma](#)
-- **Twitter**: [@nihalsinghverma](#)
-- **Portfolio Website**: [https://www.linkedin.com/in/nihalsinghverma/](#)
-
----
-
-
-Thank you for visiting my portfolio! 😊
+## Connect
+- LinkedIn: https://www.linkedin.com/in/nihalsinghverma/
+- Email: nihalsinghverma@hotmail.com
